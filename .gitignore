@@ -1,0 +1,6 @@
+*.code-workspace
+*.make
+makefile
+bin
+bin-int
+premake
